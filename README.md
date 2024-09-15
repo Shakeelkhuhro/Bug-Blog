@@ -1,6 +1,6 @@
 # Bug Blog
 
-Bug Blog is a blogging web application built with the MERN stack, allowing users to create their own blogs, view and react to others' blogs, and share their thoughts with each other.
+**Bug Blog** is a blogging web application built with the MERN stack, allowing users to create their own blogs, view and react to others' blogs, and share their thoughts with each other.
 
 ## Environment Variables
 
@@ -91,6 +91,10 @@ If you have any feedback, feel free to reach out to us.
 ## Contributing
 
 Contributions are always welcome! Please feel free to submit a pull request.
+
+## Author
+
+- **Shakeel Khuhro** - [GitHub](https://github.com/shakeelkhuhro)
 
 ## License
 
